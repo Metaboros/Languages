@@ -5,3 +5,4 @@
 
 ### Online IDE <a name="online-ide"></a>
 + [Repl.it](https://repl.it/)
++ [go.dev](https://go.dev/play/) (no data entry)

@@ -1,14 +1,14 @@
 # Languages
 💻 An open-access repository to store resources for learning various programming languages and technologies.
 
-## JavaScript
+### JavaScript
 
-## Python
+### Python
 
-## C#.
+### C\#
 
-## Java
+### Java
 
-## Go
-+ [Stepik](./Go/README.md#stepik)
+### Go
++ [Stepik Courses](./Go/README.md#stepik)
 + [Online IDE](./Go/README.md#online-ide)
