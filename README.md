@@ -6,6 +6,8 @@
 + [GitHub Sources](./JavaScript/README.md#github)
 + [Online Editors](./JavaScript/README.md#online-editors)
 
+**Contributors**: [Sergey Ocheretenko](https://github.com/SergeyOcheretenko), [Pasha Baran](https://github.com/samurai-of-honor)
+
 ### Python
 + Nothing yet
 
@@ -19,5 +21,9 @@
 + [Stepik Courses](./Go/README.md#stepik)
 + [Online IDE](./Go/README.md#online-ide)
 
+**Contributors**: [Pasha Baran](https://github.com/samurai-of-honor)
+
 ### Books
-+ List of books
++ [List of books](./Books/README.md)
+
+**Contributors**: [Sergey Ocheretenko](https://github.com/SergeyOcheretenko)
