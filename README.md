@@ -9,13 +9,13 @@
 **Contributors**: [Sergey Ocheretenko](https://github.com/SergeyOcheretenko), [Pasha Baran](https://github.com/samurai-of-honor)
 
 ### Python
-+ Nothing yet
+Nothing yet
 
 ### C\#
-+ Nothing yet
+Nothing yet
 
 ### Java
-+ Nothing yet
+Nothing yet
  
 ### Go
 + [Stepik Courses](./Go/README.md#stepik)
