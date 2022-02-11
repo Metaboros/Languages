@@ -1,6 +1,8 @@
 # Languages
 💻 An open-access repository to store resources for learning various programming languages and technologies.
 
+<!-- test comment -->
+
 ### JavaScript
 + [Stepik Courses](./JavaScript/README.md#stepik)
 + [GitHub Sources](./JavaScript/README.md#github)
