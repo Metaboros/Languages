@@ -16,9 +16,11 @@ Nothing yet
 
 ### Java
 Nothing yet
- 
+
 ### Go
++ [Documentation](./Go/README.md#docs)
 + [Stepik Courses](./Go/README.md#stepik)
++ [YouTube lessons](./Go/README.md#youtube)
 + [Online IDE](./Go/README.md#online-ide)
 
 **Contributors**: [Pasha Baran](https://github.com/samurai-of-honor)
