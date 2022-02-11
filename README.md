@@ -16,8 +16,9 @@ Nothing yet
 
 ### Java
 Nothing yet
- 
+
 ### Go
++ [Documentation](./Go/README.md#docs)
 + [Stepik Courses](./Go/README.md#stepik)
 + [Online IDE](./Go/README.md#online-ide)
 
