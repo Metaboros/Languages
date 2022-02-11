@@ -23,6 +23,11 @@
 Каждый тематический раздел содержит **тесты и практические задачи с автопроверкой** для закрепления материала.  
 По окончанию курса вы получите **сертификат** о его успешном прохождении.
 
+### YouTube <a name="youtube"></a>
++ [Изучаем Golang](https://youtube.com/playlist?list=PLc2Vkg57qmuRNHp6NNvYRVgg3OP-b5E_v)
+
+Обучение Go с нуля за 12 **видеоуроков.**
+
 ### Online IDE <a name="online-ide"></a>
 + [Repl.it](https://repl.it/)
 
