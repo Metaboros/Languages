@@ -19,8 +19,10 @@ Nothing yet
 
 ### Go
 + [Documentation](./Go/README.md#docs)
-+ [Stepik Courses](./Go/README.md#stepik)
 + [YouTube lessons](./Go/README.md#youtube)
++ [Stepik Courses](./Go/README.md#stepik)
++ [Сoursera](./Go/README.md#сoursera)
++ [Articles](./Go/README.md#articles)
 + [Online IDE](./Go/README.md#online-ide)
 
 **Contributors**: [Pasha Baran](https://github.com/samurai-of-honor)
